@@ -8,4 +8,4 @@ https://seesaawiki.jp/soylent/
 https://huxiin.ga/wordpress/?p=1173  
 ### ответственность и лицензия
 **©2020 jSm449g4d and VPSdeWP. all rights reserved.**  
-Мы не берем на себя ответственность за плохое здоровье из-за этого рецепта.  
+Власти не имеют ничего общего с вашим здоровьем.  
