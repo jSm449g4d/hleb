@@ -1,5 +1,6 @@
 # хлеб
 **революционер Заменители еды**  
+![1](https://github.com/jSm449g4d/hleb/tree/master/assets/sample.jpg)
 Разработано на основе этого Excel.  
 https://seesaawiki.jp/soylent/  
 ### особенность
